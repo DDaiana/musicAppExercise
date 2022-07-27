@@ -54,3 +54,15 @@ li {
     transform: rotate(360deg);
   }
 }
+
+nav {
+  margin: 0 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 20px 0;
+}
+
+.active {
+  color: plum;
+}
